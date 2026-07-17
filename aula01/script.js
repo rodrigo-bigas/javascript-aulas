@@ -2,6 +2,6 @@ const botao = document.getElementById("botao");
 
 botao.addEventListener("click", () => {
 
-    alert("Funcionou Novamente!");
+    alert("Funcionou de novo!");
 
 });
